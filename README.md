@@ -5,7 +5,7 @@
  
 |                           Java 11                             |
 |                            :---:                              |
-| <img alt="Java logo" width="40" java="./images/java-logo.png"> |  
+| <img alt="Java logo" width="40" src="./images/java-logo.png"> |  
 
 | Status do Projeto  | 
 |        :---:       | 
@@ -13,7 +13,7 @@
 
 |                    [Kyara Araújo](https://github.com/kyaraaraujo)                     |
 |                                     :---:                                             |
-| <img java="https://github.com/kyaraaraujo.png" width="80" alt="Kyara Araújo's photo"/> |  
+| <img src="https://github.com/kyaraaraujo.png" width="80" alt="Kyara Araújo's photo"/> |  
 
 <br>
 
