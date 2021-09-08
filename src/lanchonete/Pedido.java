@@ -1,4 +1,4 @@
-package src;
+package lanchonete;
 
 import java.util.ArrayList;
 import java.util.List;

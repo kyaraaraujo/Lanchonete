@@ -1,4 +1,4 @@
-package src;
+package lanchonete;
 
 import java.util.Map;
 import static java.util.Map.entry;

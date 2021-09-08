@@ -1,6 +1,6 @@
 package test;
 
-import src.CardapioLanches;
+import lanchonete.CardapioLanches;
 
 public class VerCardapioTest {
     public static void main(String[] args) {

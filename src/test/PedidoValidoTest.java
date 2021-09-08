@@ -1,8 +1,7 @@
 package test;
 
-
-import src.Item;
-import src.Pedido;
+import lanchonete.Item;
+import lanchonete.Pedido;
 
 public class PedidoValidoTest {
     public static void main(String[] args) {

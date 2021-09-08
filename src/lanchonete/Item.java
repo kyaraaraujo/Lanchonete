@@ -1,4 +1,4 @@
-package src;
+package lanchonete;
 
 public class Item extends CardapioLanches {
     protected String item;
