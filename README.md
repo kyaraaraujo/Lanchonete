@@ -39,7 +39,7 @@ Impressão do pedido inválido:
 [Aprendizados](#aprendizados) &nbsp;&nbsp; | &nbsp;&nbsp;
 [Preocupações de qualidade](#preocupações-de-qualidade) &nbsp;&nbsp; | &nbsp;&nbsp;
 [Como usar](#como-usar) &nbsp;&nbsp; | &nbsp;&nbsp;
-[Informações Extras](#informacoes-extras) &nbsp;&nbsp; | &nbsp;&nbsp;
+[Informações Extras](#informações-extras) &nbsp;&nbsp; | &nbsp;&nbsp;
 [Referências](#referências) &nbsp;&nbsp;
 
 <br>
